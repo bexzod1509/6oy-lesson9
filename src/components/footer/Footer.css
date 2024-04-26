@@ -1,0 +1,90 @@
+.g {
+  border-top: 1px solid rgb(233, 233, 233);
+  background: rgb(247, 247, 248);
+  margin-top: 115px;
+}
+.g p {
+  color: rgb(122, 122, 122);
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24.5px;
+  letter-spacing: 0.48px;
+  text-align: left;
+  margin-top: 18px;
+  max-width: 394px;
+}
+.g h1 {
+  color: rgb(0, 0, 0);
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23.4px;
+  letter-spacing: 0.48px;
+  text-align: left;
+  margin-bottom: 2px;
+}
+.g3 {
+  display: flex;
+  align-items: start;
+  margin-top: 17px;
+  gap: 9px;
+}
+.g3 p {
+  margin-top: 0;
+}
+.g4 {
+  margin-top: 28px;
+}
+.g6 {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+.g7 {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 24px;
+}
+.g8 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 24px;
+}
+.g6 input {
+  border: 1px solid rgb(233, 233, 233);
+  border-radius: 5px;
+  background: rgb(255, 255, 255);
+  padding: 13px 46px 13px 16px;
+  width: 416px;
+  outline: none;
+}
+.g6 img {
+  margin-left: -35px;
+}
+.g1 {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 60px;
+  border-bottom: 1px solid rgb(233, 233, 233);
+  padding-bottom: 100px;
+}
+.g {
+  padding-top: 100px;
+}
+.g9 {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.8px;
+  letter-spacing: 0.48px;
+  text-align: center;
+  padding: 20px 0;
+}
+.g9 b {
+  color: crimson;
+}

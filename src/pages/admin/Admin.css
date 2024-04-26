@@ -1,0 +1,86 @@
+.i h1 {
+  color: rgb(33, 37, 41);
+  font-family: Manrope;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0.48px;
+  text-align: left;
+}
+.i p {
+  color: rgb(122, 122, 122);
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24.5px;
+  letter-spacing: 0.48px;
+  text-align: left;
+  max-width: 621px;
+  margin-top: 23px;
+}
+.i1 {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  margin-top: 48px;
+  justify-content: center;
+}
+.i1 h2 {
+  color: rgb(245, 62, 50);
+  font-family: Manrope;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.i1 b {
+  color: rgb(122, 122, 122);
+  font-family: Manrope;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0%;
+}
+.i1 h3 {
+  color: rgb(33, 37, 41);
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0.48px;
+  text-align: center;
+  margin-top: 7px;
+}
+.admin {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  justify-content: center;
+  margin-top: 100px;
+}
+.i2 h1 {
+  color: rgb(43, 43, 45);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30.01px;
+  letter-spacing: 0.48px;
+  text-align: center;
+}
+.i2 p {
+  color: rgb(122, 122, 122);
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0.48px;
+  text-align: center;
+}
+.i2 {
+  display: flex;
+  align-items: center;
+  gap: 75px;
+  justify-content: center;
+  margin-top: 100px;
+}

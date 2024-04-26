@@ -1,0 +1,105 @@
+.containe {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.login {
+  background: rgb(245, 62, 50);
+}
+.navsection h1 {
+  color: rgb(255, 255, 255);
+  font-family: Manrope;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0.48px;
+  text-align: left;
+}
+.navsection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25.5px 0;
+}
+.register {
+  max-width: 400px;
+  transform: translateX(110%);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid rgb(233, 233, 233);
+  border-radius: 5px;
+  background: rgb(255, 255, 255);
+  margin-top: 100px;
+}
+.register p {
+  color: rgb(68, 68, 68);
+  font-family: Segoe UI;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.register #input {
+  border: 1px solid rgb(233, 233, 233);
+  border-radius: 5px;
+  padding: 15px 13px;
+  width: 338px;
+  margin-top: 10px;
+  outline: none;
+  background: rgb(255, 255, 255);
+}
+.check {
+  display: flex;
+  align-items: center;
+  gap: 98px;
+  margin-top: 24px;
+}
+label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.check h4 {
+  color: rgb(119, 119, 119);
+  font-family: Segoe UI;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: left;
+  cursor: pointer;
+}
+.submit {
+  display: flex;
+  align-items: center;
+  gap: 196px;
+  margin-top: 24px;
+}
+.submit button {
+  border-radius: 5px;
+  padding: 12px 21px;
+  background: rgb(245, 62, 50);
+  color: rgb(255, 255, 255);
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16.8px;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: capitalize;
+  cursor: pointer;
+  border-style: none;
+}
+.submit h4 {
+  color: rgb(119, 119, 119);
+  font-family: Segoe UI;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.48px;
+  text-align: center;
+}
+.submit button:active {
+  opacity: 0.5;
+}
